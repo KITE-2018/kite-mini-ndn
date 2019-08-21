@@ -1,3 +1,7 @@
+First generate and export identities for "/rv" and "/rv/alice"
+
+sudo minindn --experiment kite-simple topologies/kite-simple.conf
+
 Mini-NDN
 ========
 
